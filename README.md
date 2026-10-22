@@ -88,7 +88,7 @@
 
 | 日期 | 主题 | 新表达/句型 | 错题点 | 状态 |
 |------|------|------------|--------|------|
-| 待填写 | 待填写 | 待填写 | 待填写 | 待填写 |
+| 2026-10-21 | 日常流程句型 / 过去时叙事 / 面试初步 | ① 主谓宾+介词短语（in/on/with/at）② 冠词泛指复数/特指the/所有格's ③ 一般现在时表习惯（不加will）④ 过去时叙事（had/asked/didn't+动词原形）⑤ when从句（可前可后）⑥ depending on 表"根据情况"⑦ 复合形容词 one-hour、weekly ⑧ escalate to 上报 | 句首 I 大写（反复错）；handle 拼写（2次）；习惯动作乱加 will；everyday≠every day；p.m.后再加afternoon；中式语序 the team work environment is i not like | 进行中 |
 
 ---
 
@@ -97,14 +97,50 @@
 记录我反复说错、反应慢、或者表达不自然的地方。定期回来复习。
 
 ```
-1. 中文意思：……
-   我的错误：……
-   正确/更地道表达：……
-   例句：……
+1. 句首 i → I（必须大写）
+   我的错误：i check logs
+   正确：I check logs.
+
+2. handel → handle
+   我的错误：i handel tickets（拼错2次）
+   正确：I handle tickets.
+
+3. 习惯动作乱加 will
+   我的错误：When a deployment fails, I will check the logs.
+   正确：When a deployment fails, I check the logs.（日常习惯用一般现在时）
+
+4. everyday ≠ every day
+   everyday = 形容词"日常的"（everyday work）
+   every day = 副词"每天"（I check logs every day）
+
+5. p.m. 后不能再加 afternoon
+   我的错误：at 4 p.m. afternoon
+   正确：at 4 p.m.（p.m. 本身=下午）
+
+6. "根据……情况"用 depending on，不用 by
+   我的错误：by the alert situation
+   正确：depending on the situation
+
+7. 中式语序："环境是我不喜欢"
+   我的错误：the team work environment is i not like
+   正确：I didn't like the team's work environment.（主语+动词+宾语）
 ```
+
+---
+
+## 当前阶段：系统学从句
+
+面试题暂停（复杂句子构建能力不够，先补从句）。跟着私教教程学，在这里做配套练习。
+
+从句地图（按学习顺序）：
+1. **状语从句**：when / after / before / if（今天已经用过 when，已理解主句从句判断方法）
+2. **定语从句**：who / which / that 修饰名词（已理解"从句修饰紧跟的名词"）
+3. **宾语从句**：I think (that)... / I said (that)...（日记里已经用过 asked me why I left）
+
+每学完一种，回这里做换场景练习（SRE 场景造句），确认掌握再学下一种。
 
 ---
 
 ## 下一步目标
 
-先练熟「线上故障排查」的基本流程英语表达，能独立用 3–5 分钟完整讲清楚一次 incident。
+学完三种从句后，能用从句把简单句串成 4–5 句的连贯段落，独立讲清楚一次故障处理全过程，然后回来继续面试题训练。
