@@ -89,6 +89,7 @@
 | 日期 | 主题 | 新表达/句型 | 错题点 | 状态 |
 |------|------|------------|--------|------|
 | 2026-10-21 | 日常流程句型 / 过去时叙事 / 面试初步 | ① 主谓宾+介词短语（in/on/with/at）② 冠词泛指复数/特指the/所有格's ③ 一般现在时表习惯（不加will）④ 过去时叙事（had/asked/didn't+动词原形）⑤ when从句（可前可后）⑥ depending on 表"根据情况"⑦ 复合形容词 one-hour、weekly ⑧ escalate to 上报 | 句首 I 大写（反复错）；handle 拼写（2次）；习惯动作乱加 will；everyday≠every day；p.m.后再加afternoon；中式语序 the team work environment is i not like | 进行中 |
+| 2026-10-23 | 定语从句集中轰炸 / 私教课词汇包 | ① whose 表所属（whose name is Jojo）② 卡死 hung / 宕机 went down、crashed ③ be good at + doing ④ 假期词汇：on leave / take leave / take a day off / annual·maternity·sick·parental leave ⑤ 电话：make a call / answer the phone / return a call ⑥ 冷静：stay calm / remain composed / cool-headed ⑦ "很会"：knows how to / a good talker / be good with people ⑧ make+宾语+形容词 / get the work done / have sth done | be动词和实义动词打架（I'm live）；plane≠plan；hung 当"宕机"用；which name→whose name；script 可数名词裸奔 | 进行中 |
 
 ---
 
@@ -124,6 +125,24 @@
 7. 中式语序："环境是我不喜欢"
    我的错误：the team work environment is i not like
    正确：I didn't like the team's work environment.（主语+动词+宾语）
+
+8. be 动词和实义动词不能同时当谓语
+   我的错误：I'm live in Beijing.
+   正确：I live in Beijing. / I am living in Beijing.（中文"我是住在"里的"是"不翻译）
+
+9. "挂了" ≠ hung
+   hung = 卡死无响应（The system hung.）
+   宕机/崩溃 = went down / crashed（I fixed the system that went down last night.）
+
+10. 所属关系用 whose，which 后面不能挂名词
+    我的错误：the plan which name is Jojo
+    正确：the plan whose name is Jojo
+
+11. plane（飞机）≠ plan（方案）—— 拼写错误，意思全飞
+
+12. 可数名词泛指不能裸奔：script → scripts
+    我的错误：I'm good at writing Python script.
+    正确：I'm good at writing Python scripts.（code 不可数，天生无复数）
 ```
 
 ---
@@ -138,6 +157,17 @@
 3. **宾语从句**：I think (that)... / I said (that)...（日记里已经用过 asked me why I left）
 
 每学完一种，回这里做换场景练习（SRE 场景造句），确认掌握再学下一种。
+
+### 私教课词汇包（2026-10-23，练习题从这里面取材）
+
+| 组 | 词汇 |
+|----|------|
+| 排班/假期 | day shift / night shift / swap shifts；annual leave（年假）/ maternity leave（产假）/ parental leave（育儿假）/ marriage leave（婚假）/ casual leave（事假）/ sick leave（病假）；**on leave** = 休假中 / **take leave** = 去请假 / apply for leave / take a day off / take some time off |
+| 电话 | make a call（打电话）/ answer the phone = pick up the phone（接电话）/ call sb = give sb a call = ring sb up / return a call（回电话） |
+| 冷静 | stay calm / remain composed / cool-headed / keep a cool head；反义：panic |
+| "很会…" | knows how to talk / a good talker / knows how to deal with people / be good with people / dresses well / negotiates well |
+| make/get/have | make the room clean（make+宾语+形容词）/ get the work done / get everything ready / have my hair cut / have the computer fixed（have+宾语+过去分词） |
+| 杂项 | guy（人）/ new hire（新人）/ vendor（厂商）/ root password / automate / respond（动词）/ response（名词）/ appreciate / stay up all night |
 
 ---
 
