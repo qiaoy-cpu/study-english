@@ -89,7 +89,7 @@
 | 日期 | 主题 | 新表达/句型 | 错题点 | 状态 |
 |------|------|------------|--------|------|
 | 2026-10-21 | 日常流程句型 / 过去时叙事 / 面试初步 | ① 主谓宾+介词短语（in/on/with/at）② 冠词泛指复数/特指the/所有格's ③ 一般现在时表习惯（不加will）④ 过去时叙事（had/asked/didn't+动词原形）⑤ when从句（可前可后）⑥ depending on 表"根据情况"⑦ 复合形容词 one-hour、weekly ⑧ escalate to 上报 | 句首 I 大写（反复错）；handle 拼写（2次）；习惯动作乱加 will；everyday≠every day；p.m.后再加afternoon；中式语序 the team work environment is i not like | 进行中 |
-| 2026-10-23 | 定语从句集中轰炸 / 私教课词汇包 | ① whose 表所属（whose name is Jojo）② 卡死 hung / 宕机 went down、crashed ③ be good at + doing ④ 假期词汇：on leave / take leave / take a day off / annual·maternity·sick·parental leave ⑤ 电话：make a call / answer the phone / return a call ⑥ 冷静：stay calm / remain composed / cool-headed ⑦ "很会"：knows how to / a good talker / be good with people ⑧ make+宾语+形容词 / get the work done / have sth done | be动词和实义动词打架（I'm live）；plane≠plan；hung 当"宕机"用；which name→whose name；script 可数名词裸奔 | 进行中 |
+| 2026-10-23 | 定语从句集中轰炸 / 私教课词汇包 | ① whose 表所属（whose name is Jojo）② 卡死 hung / 宕机 went down、crashed ③ be good at + doing ④ 假期词汇：on leave / take leave / take a day off / annual·maternity·sick·parental leave ⑤ 电话：make a call / answer the phone / return a call ⑥ 冷静：stay calm / remain composed / cool-headed ⑦ "很会"：knows how to / a good talker / be good with people ⑧ make+宾语+形容词 / get the work done / have sth done ⑨ **have/get + 宾语 + 过去分词**（I had the computer fixed / We got the work done）⑩ very 只修饰形容词副词，动词用 really ⑪ the only person | 答题24题：全对8、纠错14。红灯：**时态意识弱（6次：handles→handled、finds→found 等）**；very 修饰动词；have/get sth done 未验证；swap shifts / return a call 二次混 | 第一阶段完成，待答 20–25 题验证 have/get sth done |
 
 ---
 
@@ -143,6 +143,28 @@
 12. 可数名词泛指不能裸奔：script → scripts
     我的错误：I'm good at writing Python script.
     正确：I'm good at writing Python scripts.（code 不可数，天生无复数）
+
+13. very 不能修饰动词，动词用 really
+    我的错误：We very appreciate the team.
+    正确：We really appreciate the team. / We appreciate it very much.
+
+14. have/get + 宾语 + 过去分词（"把…弄成某状态"）
+    中文：把电脑修好了 / 把工作做完了
+    正确：I had the computer fixed. / We got the work done.
+    注意：动词永远用过去分词（done/fixed/cut），have 和 get 随便换
+
+15. 换班是 swap shifts，不是 change shifts
+    中文"想换班"的"想"别丢：who wants to swap shifts
+
+16. 接电话 vs 回电话
+    answer the phone = 接（打进来的）电话
+    return a call = 回电话（别人打来过，我打回去）
+    我的错误：The guy who answers the phone to me（回电话场景）
+    正确：The person who returned my call.
+
+17. 主谓一致：who 指代单数先行词，从句动词加 s（曾连错3次后修复）
+    我的错误：who work / who sit / who write
+    正确：who works / who sits / who wrote
 ```
 
 ---
@@ -157,6 +179,14 @@
 3. **宾语从句**：I think (that)... / I said (that)...（日记里已经用过 asked me why I left）
 
 每学完一种，回这里做换场景练习（SRE 场景造句），确认掌握再学下一种。
+
+### 轰炸进度（定语从句阶段）
+
+- 第一批（从句基本型）：已完成，who/that/whose 框架过关
+- 第二批（主谓一致专项）：已完成，连错 3 次后修复（manages/automates 全对）
+- 第三批（课堂词汇 + 换班/电话/厂商）：已完成
+- 第四批（have/get sth done 专项）：**待完成**（题 20–25），重点验证 20、21
+- 红灯复查项：时态信号词（已经/昨晚/发现了→过去时）、very vs really
 
 ### 私教课词汇包（2026-10-23，练习题从这里面取材）
 
